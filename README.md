@@ -1,6 +1,16 @@
-### Hi there 👋
+### Hi, I am George 👋
 
-![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorgeLMaluf&show_icons=true&theme=merko)
+- 🌱 I’m currently learning musical keyboard
+- 💬 Ask me about: 🎥 movies, 🎶 music, 🖖 star trek, 🏍️ motocicles, 🚗 cars, 📜 filosophy and 🍺beers
+- 📫 Email me at georgelmaluf286@gmail.com
+- ⚡ Fun fact: I have five dogs 🐕
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GeorgeLMaluf&show_icons=true&theme=merko" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeLMaluf&layout=compact&langs_count=16&theme=merko" />
+</div>
+
+
+
 <!--
 **GeorgeLMaluf/GeorgeLMaluf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
