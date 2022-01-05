@@ -1,10 +1,8 @@
 ### Hi, I am George 👋
 
-
 <b>About Me</b>
 - 🌱 I’m currently learning musical keyboard
 - 💬 Ask me about: 🎥 movies, 🎶 music, 🖖 star trek, 🏍️ motocicles, 🚗 cars, 📜 filosophy and 🍺beers
-- 📫 Email me at georgelmaluf286@gmail.com
 - ⚡ Fun fact: I have five dogs 🐕
 
 <b> Languages and Tools </b>
@@ -26,6 +24,15 @@
 </div>
 
 ##
+
+<b> 📫 How to reach me</b>
+<div>
+  <a href="https://www.linkedin.com/in/%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB-george-l-maluf-24225733/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://api.whatsapp.com/send?phone=554298337945"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="mailto:georgelmaluf286@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
+
+## 
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GeorgeLMaluf&show_icons=true" />
